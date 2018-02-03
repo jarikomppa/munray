@@ -1,0 +1,11 @@
+*.opensdf
+*.sdf
+*.filters
+Debug/
+out/
+Release/
+data/
+imgui.ini
+*.suo
+*.user
+*.dll
